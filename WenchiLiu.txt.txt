@@ -1,7 +1,4 @@
-Name:
-Major:
-Year:
-Favorite thing about robotics (so far):Name: Wenchi Liu
+Name: Wenchi Liu
 Major: ChemE and Physics
 Year: 1st
 Favorite thing about robotics (so far): The people:)
